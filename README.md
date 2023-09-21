@@ -1,8 +1,11 @@
 ## Table Of Contents
 
  -[PROJECT TITLE] (#PROJECT-TITLE)
+ 
  -[WHO AM I?] (#WHO-am-i?)
+ 
  -[WHAT ARE MY FAVORITE HOBBIES] (#what-are-my-favorite-hobbies?)
+
  -[LINKEDIN] (#Linkedin)
 
 ## Project Title
@@ -18,9 +21,11 @@
   ## What are my favorite hobbies?
 
   1.Football
-  2.Movies
-  3.Food
 
-  ##Linkedin
+   2.Movies
 
-  [Noah Haegers Linked in] (https://www.linkedin.com/in/noah-haeger)
+   3.Food
+
+  ## Linkedin
+
+  [Noah Haegers LinkedIn] (https://www.linkedin.com/in/noah-haeger)
