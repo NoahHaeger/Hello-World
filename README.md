@@ -1,9 +1,9 @@
 ## Table Of Contents
 
-[PROJECT TITLE] (#PROJECT-TITLE)
-[WHO AM I?] (#WHO-am-i?)
-[WHAT ARE MY FAVORITE HOBBIES] (#what-are-my-favorite-hobbies?)
-[LINKEDIN] (#Linkedin)
+ -[PROJECT TITLE] (#PROJECT-TITLE)
+ -[WHO AM I?] (#WHO-am-i?)
+ -[WHAT ARE MY FAVORITE HOBBIES] (#what-are-my-favorite-hobbies?)
+ -[LINKEDIN] (#Linkedin)
 
 ## Project Title
 
